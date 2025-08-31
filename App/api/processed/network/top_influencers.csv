@@ -1,0 +1,51 @@
+node,label,platform,node_type,city,in_degree,out_degree,betweenness,eigenvector,community,score
+@swmotech_fr,@swmotech_fr,instagram,ig_user,,5.0,2.0,3.0742592076714816e-08,0.0,-1,0.3000837310558486
+yt:Honda Moto France,Honda Moto France,youtube,yt_channel,,11943.0,0.0,0.0,0.0,-1,0.2
+yt:Honda Africa Twin,Honda Africa Twin,youtube,yt_channel,,3437.0,0.0,0.0,0.0,-1,0.057556727790337436
+yt:Honda Transalp,Honda Transalp,youtube,yt_channel,,2456.0,0.0,0.0,0.0,-1,0.04112869463283932
+@un.huitieme,@un.huitieme,instagram,ig_user,,2.0,1.0,3.842824009589352e-09,0.0,-1,0.03753349242233944
+yt:Dakota Stone,Dakota Stone,youtube,yt_channel,,999.0,0.0,0.0,0.0,-1,0.01672946495855313
+yt:Honda CB500X,Honda CB500X,youtube,yt_channel,,520.0,0.0,0.0,0.0,-1,0.008708029808255883
+yt:Caio Pieroni,Caio Pieroni,youtube,yt_channel,,401.0,0.0,0.0,0.0,-1,0.006715230679058864
+yt:TheBikerLane,TheBikerLane,youtube,yt_channel,,348.0,0.0,0.0,0.0,-1,0.005827681487063552
+yt:Honda Powersports-Outdoor Canada,Honda Powersports-Outdoor Canada,youtube,yt_channel,,327.0,0.0,0.0,0.0,-1,0.005476011052499372
+yt:MOTOR LIVE,MOTOR LIVE,youtube,yt_channel,,240.0,0.0,0.0,0.0,-1,0.004019090680733485
+yt:frere_o_stand,frere_o_stand,youtube,yt_channel,,211.0,0.0,0.0,0.0,-1,0.003533450556811522
+yt:Bikereview Pro,Bikereview Pro,youtube,yt_channel,,180.0,0.0,0.0,0.0,-1,0.003014318010550113
+yt:Jimmy Roméo,Jimmy Roméo,youtube,yt_channel,,172.0,0.0,0.0,0.0,-1,0.0028803483211923306
+yt:MrRatSuper Life,MrRatSuper Life,youtube,yt_channel,,137.0,0.0,0.0,0.0,-1,0.0022942309302520308
+yt:ISAIAS RF,ISAIAS RF,youtube,yt_channel,,136.0,0.0,0.0,0.0,-1,0.0022774847190823078
+yt:Outback Motortek,Outback Motortek,youtube,yt_channel,,133.0,0.0,0.0,0.0,-1,0.002227246085573139
+yt:Moto Journal,Moto Journal,youtube,yt_channel,,131.0,0.0,0.0,0.0,-1,0.0021937536632336933
+yt:Moto Magazine,Moto Magazine,youtube,yt_channel,,124.0,0.0,0.0,0.0,-1,0.0020765301850456334
+yt:Alin With the R6,Alin With the R6,youtube,yt_channel,,89.0,0.0,0.0,0.0,-1,0.0014904127941053338
+@africa_twin_riders,@africa_twin_riders,instagram,ig_user,,79.0,0.0,0.0,0.0,-1,0.0013229506824081053
+@loneridergear,@loneridergear,instagram,ig_user,,78.0,0.0,0.0,0.0,-1,0.0013062044712383826
+yt:Lunaris2142,Lunaris2142,youtube,yt_channel,,78.0,0.0,0.0,0.0,-1,0.0013062044712383826
+yt:High Side,High Side,youtube,yt_channel,,78.0,0.0,0.0,0.0,-1,0.0013062044712383826
+yt:Soul Riders Motocicletas,Soul Riders Motocicletas,youtube,yt_channel,,76.0,0.0,0.0,0.0,-1,0.0012727120488989366
+yt:J sports,J sports,youtube,yt_channel,,72.0,0.0,0.0,0.0,-1,0.0012057272042200454
+yt:Honda Tansoy,Honda Tansoy,youtube,yt_channel,,61.0,0.0,0.0,0.0,-1,0.001021518881353094
+yt:THE MOTORCYCLE YOGI,THE MOTORCYCLE YOGI,youtube,yt_channel,,59.0,0.0,0.0,0.0,-1,0.0009880264590136482
+yt:LEANDRO DANTAS,LEANDRO DANTAS,youtube,yt_channel,,45.0,0.0,0.0,0.0,-1,0.0007535795026375283
+yt:Urbaanews : Le spécialiste 2 roues /moto /scooter,Urbaanews : Le spécialiste 2 roues /moto /scooter,youtube,yt_channel,,44.0,0.0,0.0,0.0,-1,0.0007368332914678054
+yt:Lord Puma,Lord Puma,youtube,yt_channel,,43.0,0.0,0.0,0.0,-1,0.0007200870802980826
+yt:R C Official11,R C Official11,youtube,yt_channel,,43.0,0.0,0.0,0.0,-1,0.0007200870802980826
+yt:330mm,330mm,youtube,yt_channel,,41.0,0.0,0.0,0.0,-1,0.0006865946579586369
+@hondamotoses,@hondamotoses,instagram,ig_user,,38.0,0.0,0.0,0.0,-1,0.0006363560244494683
+yt:Max's Moto Shop,Max's Moto Shop,youtube,yt_channel,,38.0,0.0,0.0,0.0,-1,0.0006363560244494683
+yt:Rusty Gold MotorShop Amsterdam,Rusty Gold MotorShop Amsterdam,youtube,yt_channel,,36.0,0.0,0.0,0.0,-1,0.0006028636021100227
+@outback_motortek,@outback_motortek,instagram,ig_user,,34.0,0.0,0.0,0.0,-1,0.0005693711797705769
+@hlxoficial,@hlxoficial,instagram,ig_user,,34.0,0.0,0.0,0.0,-1,0.0005693711797705769
+@cb500x_sc,@cb500x_sc,instagram,ig_user,,33.0,0.0,0.0,0.0,-1,0.0005526249686008541
+@worldafricatwinriders,@worldafricatwinriders,instagram,ig_user,,33.0,0.0,0.0,0.0,-1,0.0005526249686008541
+@transalpine_run,@transalpine_run,instagram,ig_user,,28.0,0.0,0.0,0.0,-1,0.0004688939127522398
+yt:Moto Blindão,Moto Blindão,youtube,yt_channel,,28.0,0.0,0.0,0.0,-1,0.0004688939127522398
+@barkbustershandguards,@barkbustershandguards,instagram,ig_user,,28.0,0.0,0.0,0.0,-1,0.0004688939127522398
+@hondamotoitalia,@hondamotoitalia,instagram,ig_user,,27.0,0.0,0.0,0.0,-1,0.000452147701582517
+@goretextransalpinerun,@goretextransalpinerun,instagram,ig_user,,27.0,0.0,0.0,0.0,-1,0.000452147701582517
+@sercomoto,@sercomoto,instagram,ig_user,,26.0,0.0,0.0,0.0,-1,0.0004354014904127941
+@crf1100africatwin,@crf1100africatwin,instagram,ig_user,,25.0,0.0,0.0,0.0,-1,0.0004186552792430713
+yt:Moto Full,Moto Full,youtube,yt_channel,,24.0,0.0,0.0,0.0,-1,0.0004019090680733484
+@adventure_riders_99,@adventure_riders_99,instagram,ig_user,,23.0,0.0,0.0,0.0,-1,0.00038516285690362557
+@hondamotorrad_de,@hondamotorrad_de,instagram,ig_user,,23.0,0.0,0.0,0.0,-1,0.00038516285690362557
